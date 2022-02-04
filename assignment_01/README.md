@@ -34,7 +34,7 @@ I am an enthusiastic **Software Engineer** and an **aspiring Data Scientist** wi
       
       - Responsible for monitoring and fixing daily Jenkins jobs for production and non-production lines
       
-      -Implemented and stabilized test cases for different web browsers, AOS and IOS devices.
+      - Implemented and stabilized test cases for different web browsers, AOS and IOS devices.
 
 2. ***Project Engineer, Wipro Technologies (2015 - 2019)***
 
