@@ -6,7 +6,7 @@
       "name": "Untitled0.ipynb",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyOTyBIdalNtupFF786+PYZh",
+      "authorship_tag": "ABX9TyO6FLXKSSBeTApRRzaucC4m",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -31,7 +31,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "![Arushi Agarwal](Arushi.jpeg)\n",
+        "![Arushi Agarwal]\n",
         "\n",
         "## **ARUSHI AGARWAL**\n",
         "- 212 Garden Ridge Road, Catonsville, MD 21228\n",
