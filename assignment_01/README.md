@@ -29,8 +29,11 @@ I am an enthusiastic **Software Engineer** and an **aspiring Data Scientist** wi
     **Responsibilities**
 
       - Created automation test scripts for PS5 from scratch. 
+      
       - Created accurate and efficient test scripts to manage automated testing of PlayStation Account management website and certain features of Playstation.
+      
       - Responsible for monitoring and fixing daily Jenkins jobs for production and non-production lines
+      
       -Implemented and stabilized test cases for different web browsers, AOS and IOS devices.
 
 2. ***Project Engineer, Wipro Technologies (2015 - 2019)***
@@ -42,8 +45,11 @@ I am an enthusiastic **Software Engineer** and an **aspiring Data Scientist** wi
     **Responsibilities**
 
     - Responsible for continuously creating labels for 50+ components of Oracle Database.
+    
     - Integrating all components of RDBMS to create RDBMS labels.
+    
     - Responsible for generating error-free builds and bug fixing.
+    
     - My role also included starting new series and creating release candidates for the product release
 
   - **Project**
@@ -53,9 +59,13 @@ I am an enthusiastic **Software Engineer** and an **aspiring Data Scientist** wi
     **Responsibilities**
 
     - Developed codes from ground up using measured, market-focused approach.
+    
     - Revised, modularized and updated old code bases to modern development standards, improving functionality.
+    
     - Bug monitoring and Report generation for various TiVo products using Bugzilla.
+    
     - Development of a Query tool for team using Ruby, Haml and Yaml. It was a provisioning tool for STB domain that helped in identifying the devices (STB) that are poorly provisioned. This helped in minimizing the effort to identify the device.
+    
     - Responsible for triaging and fixing priority bugs across UI and middleware.
 
 ### ***Technical Skills***
@@ -70,13 +80,18 @@ I am an enthusiastic **Software Engineer** and an **aspiring Data Scientist** wi
 ### ***Accomplishments***
 ---
 - Recieved *Customer Excellence Award* from SpanIdea Systems.
+
 - Received *Best Team* award from Sony for excellent and quick project delivery.
+
 - Received *Trailblazers* award from Wipro Technologies for best Project Delivery.
+
 - Recognized by the Central Education Board, India for achieving 100% marks in Mathematics in High school.
+
 - Received an award for securing Top rank in Wipro Training Programme.
 
 ### ***Social Activities***
 ---
 
 - Taught underprivileged children at Nai Disha foundation (NGO).
+
 - Organized various Social Awareness Programs during Undergrad program.
