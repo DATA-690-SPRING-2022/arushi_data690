@@ -1,4 +1,4 @@
-# **A Prespective On Gender Inequality From 2014 to 2019**
+# **A Perspective On Gender Inequality From 2014 to 2019**
 
 ##### -Arushi Agarwal
 ###### March 12, 2022
@@ -48,5 +48,5 @@ Even at the secondary education level, percentage of females in India (47.5%) an
 
 ### **Conclusion**
 
-As per the initial assessment in three diverse countries, achieving gender equality requires a lot of efforts in least developed countries as they need proper infrastructure, information dissemination and resources. Developing country such as India is looking a upward trends as more female are getting an opportunities to continue education at primary and secondary level. Additonally, more multinaltional companies are moving to developing countries and making changes in instituion by implementing gender equality policies.
+As per the initial assessment in three diverse countries, achieving gender equality requires a lot of efforts in least developed countries as they need proper infrastructure, information dissemination and resources. Developing country such as India is looking a upward trends as more female are getting opportunities to continue education at primary and secondary level. Additonally, more multinaltional companies are moving to developing countries and making changes in instituion by implementing gender equality policies.
 
