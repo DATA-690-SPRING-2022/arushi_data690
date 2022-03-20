@@ -90,3 +90,4 @@ As per the initial assessment in three diverse countries, acheiving gender equal
 
 In final assessment, it can be determined that developed countries have reduced the gender gap by introducing various schemes and policies in their system such as education, public and private job sectors. Similarly the same patterns are being followed by developing countries due to which they are seeing an upward trend in gender equality. However, there are many strong detracters which are stunting the growth and working against these positive trends. For Under Developed countries, institutionalization of government policies and mandates in all sectors of society will help in reducing this gender gap drastically. Additionally, awareness and elimination of years long believes could also support the growth of gender equality.
 
+
